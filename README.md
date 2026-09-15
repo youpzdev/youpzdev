@@ -9,7 +9,7 @@ My main stack is Unity and Flutter. I also work on web projects and make low-pol
 
 <h3>tech stack</h3>
 
-<p><img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,flutter,dart,ts,react,nodejs,python,supabase,postgres,figma,git,githubactions,docker,gradle&amp;theme=dark&amp;perline=6" alt="Unity, C#, C++, Blender, Flutter, Dart; TypeScript, React, Node.js, Python, Supabase, PostgreSQL; Figma, Git, GitHub Actions, Docker, Gradle" width="328"></p>
+<p><img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,flutter,dart,ts,react,nodejs,python,supabase,postgres,figma,git,githubactions,docker,gradle&amp;theme=dark&amp;perline=17" alt="Unity, C#, C++, Blender, Flutter, Dart; TypeScript, React, Node.js, Python, Supabase, PostgreSQL; Figma, Git, GitHub Actions, Docker, Gradle" width="100%"></p>
 
 <ul>
 <li><b>Languages:</b> C#, Dart, C++, TypeScript, Python</li>
